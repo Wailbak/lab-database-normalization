@@ -1,3 +1,5 @@
+-- Prompt for creating Sakila's diagram using dbdiagram.io
+
 CREATE TABLE `actor` (
   `actor_id` integer PRIMARY KEY,
   `first_name` varchar(255),
